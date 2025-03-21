@@ -3,6 +3,7 @@
  Foi utilizado a bliblioteca Axios do Node Js.
  
  -Para se utilizar é necessario dar um npm install axios
+ 
  -Depois se declara no cabeçalho o const axios = require('axios');
 
  # Documentação
